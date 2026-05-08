@@ -1,0 +1,18 @@
+# [python]
+
+__pycache__/
+build/
+*.egg-info/
+
+# [yxj]
+
+_playground.py
+_output/
+
+# [vscode]
+
+.vscode/settings.json
+
+# [optix]
+
+ptx/
